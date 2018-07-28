@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1065109142789",
+    "firebase_url": "https://form-4b99d.firebaseio.com",
+    "project_id": "form-4b99d",
+    "storage_bucket": "form-4b99d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065109142789:android:a448cbe285a98acf",
+        "android_client_info": {
+          "package_name": "com.nazran.form"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065109142789-cp0hh609vnnsafua26to68vkchbv4v6c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nazran.form",
+            "certificate_hash": "cb37fd2d6568006cc9e89b4a2cf495a9bd682c51"
+          }
+        },
+        {
+          "client_id": "1065109142789-2g93f93bu5ifiv9jdsocpipg7rcj31h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYWE4H9RF0VcRLbsvUzzy_ucE0vkaG9n4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065109142789-2g93f93bu5ifiv9jdsocpipg7rcj31h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
